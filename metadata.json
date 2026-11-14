@@ -1,0 +1,8 @@
+{
+  "name": "FORUM IKM-UMKM KECAMATAN CISARUA",
+  "description": "Marketplace resmi Forum IKM-UMKM Kecamatan Cisarua dengan sistem pembayaran terintegrasi, pengiriman kurir lokal, dan dasbor manajemen inventaris penjual mandiri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
